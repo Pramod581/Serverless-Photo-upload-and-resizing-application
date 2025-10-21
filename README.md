@@ -11,7 +11,8 @@ o	Store metadata
 o	Move or copy images to another bucket
 o	Log upload events
 •	100% serverless and scalable.
-Architecture Overview
+
+## Architecture Overview
 +-----------------+                 +----------------------+                +---------------------+
 |   Frontend    |      --->     |   S3 Bucket         |    --->      | AWS Lambda    |
 |  (Web/App)  |  Upload  | (photo-bucket) | Trigger  | (processImage) |
@@ -19,14 +20,16 @@ Architecture Overview
         |                                                           |
         +--------------------------------------------+
                  View / Download
-Step 1: Create two S3 Buckets
+
+## Step 1: Create two S3 Buckets
 1.	Sign in to the AWS Management Console.
 2.	Navigate to Amazon S3 → Buckets → Create bucket.
 3.	Choose a unique name for both.
 4.	Leave other settings default and click Create bucket.
 
-![alt text](image.png)
-Step 2: Create a Lambda Function
+       ![alt text](image.png)
+
+## Step 2: Create a Lambda Function
 1.	Go to AWS Lambda → Create function.
 2.	Choose Author from scratch.
 3.	Enter:
