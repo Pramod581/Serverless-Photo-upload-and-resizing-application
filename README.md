@@ -28,7 +28,7 @@ o	Log upload events
 3.	Choose a unique name for both.
 4.	Leave other settings default and click Create bucket.
 
-        ![alt text](image.png)
+        blob:https://www-towrco-in.filesusr.com/6361055d-7c90-49c4-b794-176aa49620c0
 
 ## Step 2: Create a Lambda Function
 1.	Go to AWS Lambda → Create function.
