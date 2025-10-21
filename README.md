@@ -21,6 +21,7 @@ o	Log upload events
         +--------------------------------------------+
                  View / Download
 
+
 ## Step 1: Create two S3 Buckets
 1.	Sign in to the AWS Management Console.
 2.	Navigate to Amazon S3 → Buckets → Create bucket.
