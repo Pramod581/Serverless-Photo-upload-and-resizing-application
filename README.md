@@ -28,7 +28,8 @@ o	Log upload events
 3.	Choose a unique name for both.
 4.	Leave other settings default and click Create bucket.
 
-        <img width="940" height="542" alt="image" src="https://github.com/user-attachments/assets/f6d6b031-f9cc-481c-91b2-a0d5b1630d11" />
+        <img width="940" height="542" alt="image" src="https://github.com/user-attachments/assets/3ee3a5f9-fc4b-4e94-926b-628b7fa76422" />
+
 
 
 ## Step 2: Create a Lambda Function
