@@ -1,7 +1,8 @@
 # Serverless-Photo-upload-and-resizing-application
 ## Objective: 
 To design and deploy a fully serverless web application where users can upload photos through a web interface, and the images are stored, processed, and served securely using AWS services.
-Features
+
+## Features
 •	Upload photos directly to an Amazon S3 bucket
 •	Automatically trigger an AWS Lambda function when a photo is uploaded
 •	Lambda can:
